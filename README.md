@@ -27,4 +27,3 @@ Estudante de Engenharia da Computação apaixonado por tecnologia e inovação. 
 ## 📫 Contato
 - **Email**: [Geovanne40@gmail.com](mailto:Geovanne40@gmail.com)
 - **LinkedIn**: [linkedin.com/geovannenery/](https://linkedin.com/geovannenery/)
-- **GitHub**: [github.com/gnery7](https://github.com/gnery7)

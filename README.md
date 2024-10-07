@@ -30,21 +30,42 @@ Estudante de Engenharia da Computação apaixonado por tecnologia e inovação. 
 
 ### Linguagens:
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
 </p>
 
 ### Frameworks & Ferramentas:
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
+  </a>
 </p>
+
 
 ## 🌱 Interesses Atuais
 - Aprofundar conhecimentos em desenvolvimento web.

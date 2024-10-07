@@ -7,10 +7,18 @@ Estudante de Engenharia da Computação apaixonado por tecnologia e inovação. 
 - **Curso de Hardware**, Evolutime (2016 - 2019)
 - **Curso de HTML e CSS**, ALURA (2020 - 2021)
 
-## 💼 Experiência Profissional
-- **Jovem Aprendiz**, UNIMES, Santos-SP (2023 - Atualmente)
+## 💼 Experiência Profissional- 
+- **Analista de infraestrutura de Redes**, UNIMES, Santos-SP (2024 - atualmente)
+  - Desenvolvimento de soluções de software
+  - Automatização de processos
+  - Gerenciamento de usuários no domínio
+  - Instalação e configuração de equipamentos de rede
+  - Gerenciamento e manutenção da infraestrutura de rede
+  - 
+- **Jovem Aprendiz**, UNIMES, Santos-SP (2023 - 2024)
   - Manutenção e configuração de computadores.
   - Implementação do Grafana para análise de servidores.
+  - 
 - **Monitoria de Laboratório**, UNISANTA, Santos-SP (2021 - 2022)
   - Auxílio a alunos com equipamentos e dúvidas técnicas.
 

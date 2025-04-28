@@ -1,76 +1,46 @@
-# Olá, sou Geovanne Pelozone Nery 👋
+# Geovanne Pelozone Nery
 
-Estudante de Engenharia da Computação apaixonado por tecnologia e inovação. Atualmente, estou focado em aprimorar minhas habilidades em programação e manutenção de sistemas.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/geovannenery/)
+[![Email](https://img.shields.io/badge/Email-geovanne40%40gmail.com-red)](mailto:geovanne40@gmail.com)
 
-## 📚 Educação
-- **Engenharia da Computação**, UNISANTA (2020 - 2024)
-- **Curso de Hardware**, Evolutime (2016 - 2019)
-- **Curso de HTML e CSS**, ALURA (2020 - 2021)
+Desenvolvedor Full Stack e Engenheiro de Computação apaixonado por tecnologia, inovação e inteligência artificial. Tenho experiência em manutenção de sistemas legados, modernização de aplicações e integração de APIs. Atuo para otimizar a experiência digital, trazendo eficiência e funcionalidade para os projetos.
 
-## 💼 Experiência Profissional 
-- **Analista de infraestrutura de Redes**, UNIMES, Santos-SP (2024 - atualmente)
-  - Desenvolvimento de soluções de software
-  - Automatização de processos
-  - Gerenciamento de usuários no domínio
-  - Instalação e configuração de equipamentos de rede
-  - Gerenciamento e manutenção da infraestrutura de rede
-- **Jovem Aprendiz**, UNIMES, Santos-SP (2023 - 2024)
-  - Manutenção e configuração de computadores.
-  - Implementação do Grafana para análise de servidores.
-- **Monitoria de Laboratório**, UNISANTA, Santos-SP (2021 - 2022)
-  - Auxílio a alunos com equipamentos e dúvidas técnicas.
+---
 
-## 🌟 Habilidades
-- Lógica de Programação
-- Comunicação Eficaz
-- Trabalho em Equipe
-- Design (Básico)
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** PHP (5.2 e 8), C++, Python, JavaScript, HTML, CSS
+- **Bancos de Dados:** MySQL
+- **Ferramentas e Frameworks:** React, Laravel, Angular, AWS, TensorFlow, OpenCV
+- **Versionamento:** Git & GitHub
 
-## 🚀 Tecnologias & Ferramentas
+---
 
-### Linguagens:
-<p align="left">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-</p>
+## 📚 Formação e Certificações
+- **Bacharelado:** Engenharia da Computação, Universidade Santa Cecília (2020 - 2024)
+- **Cursos:** 
+  - HTML e CSS, Alura
+  - Do Excel à Análise de Dados em Python
+  - Imersão Dev com Google Gemini
+  - Milvus Summit 2023
 
-### Frameworks & Ferramentas:
-<p align="left">
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="padding-right:10px;" onmouseover="this.style.transform='rotate(20deg)';" onmouseout="this.style.transform='rotate(0)';"/>
-  </a>
-</p>
+---
 
+## 🏆 Projetos e Premiações
+### [Braço Robótico](https://github.com/gnery7/Bracorobotico)
+Desenvolvimento de um braço robótico automatizado com pontos de articulação. Projeto desafiador devido à implementação de ciclos automatizados para movimentação de blocos em posições específicas.
 
-## 🌱 Interesses Atuais
-- Aprofundar conhecimentos em desenvolvimento web.
-- Explorar novas tecnologias e tendências do mercado.
+### [Algoritmo do Método de Widrow-Hoff](https://github.com/gnery7/Metodo-de-Widrow-Hoff)
+Implementação de uma técnica para treinar redes neurais simples, minimizando o erro entre saídas desejadas e reais.
 
-## 📫 Contato
-- **Email**: [Geovanne40@gmail.com](mailto:Geovanne40@gmail.com)
-- **LinkedIn**: [linkedin.com/geovannenery/](https://linkedin.com/geovannenery/)
+### Sistema de Identificação de Ossos
+Projeto vencedor da COBRIC 2024 (Prêmio Milton Teixeira), criado para auxiliar alunos com deficiência visual na identificação de ossos humanos. Nota final: **10.**
+
+---
+
+## 💡 Interesses
+- Tecnologias emergentes e inteligência artificial.
+- Videogames, cultura pop, música e ficção científica.
+
+---
+
+Seja bem-vindo ao meu perfil! Sempre buscando contribuir com projetos desafiadores e inovadores. ✨

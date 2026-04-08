@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README.md">🇧🇷 Português</a> | <a href="README-en.md">🇺🇸 English</a>
+</div>
+
 # Olá! Sou o Geovanne 👋
 
 Sou Engenheiro da Computação e Desenvolvedor Full Stack direto de Santos, SP 🌴. 
@@ -16,15 +20,6 @@ Atualmente, meu grande foco de especialização é o **ecossistema Java**, aprof
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,php,react,mysql,sqlite,docker,aws,git,github&theme=dark" />
-  </a>
-</div>
-
-### 📊 Meus Status no GitHub
-
-<div align="center">
-  <a href="https://github.com/gnery7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnery7&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnery7&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff"/>
   </a>
 </div>
 

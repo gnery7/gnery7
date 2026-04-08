@@ -1,69 +1,48 @@
-# Geovanne Pelozone Nery
+# Olá! Sou o Geovanne 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/geovannenery/)
-[![Email](https://img.shields.io/badge/Email-geovanne40%40gmail.com-red)](mailto:geovanne40@gmail.com)
+Sou Engenheiro da Computação e Desenvolvedor Full Stack direto de Santos, SP 🌴. 
 
-Engenheiro de Computação e Desenvolvedor Full Stack apaixonado por tecnologia, inovação e inteligência artificial. Possuo forte experiência na manutenção e modernização de sistemas legados (migração PHP 5.x para 8), além de desenvolver soluções que integram APIs de IA (OpenAI) para automação de processos acadêmicos e validação de documentos.
+Minha especialidade é transformar a complexidade de sistemas críticos em soluções escaláveis e eficientes. Tenho uma vivência forte na linha de frente do código: desde a sustentação e modernização de aplicações legadas complexas, até a arquitetura e construção do zero de novas APIs RESTful de alto desempenho.
 
-Atualmente, foco em otimizar a experiência digital (UX/UI) e criar arquiteturas escaláveis utilizando Laravel e Python.
+Atualmente, meu grande foco de especialização é o **ecossistema Java**, aprofundando meus estudos em Arquitetura de Sistemas, Programação Orientada a Objetos e boas práticas (SOLID, Clean Architecture).
 
----
+### 🧠 O que eu realmente faço:
+* **Engenharia & Arquitetura:** Modelagem de sistemas, criação de rotinas complexas e garantia de qualidade de código através de testes automatizados (Pytest, JUnit).
+* **APIs & Inteligência Artificial:** Desenvolvimento de integrações robustas com serviços de terceiros e IA (API da OpenAI para validação de dados e correção de documentos) utilizando Python e FastAPI.
+* **Resgate de Legados:** Refatoração estruturada, migração de versões (lidando diretamente com ambientes do PHP 5.2 ao 8) e melhoria de performance e UX em produção sem comprometer a estabilidade.
 
-## 💼 Experiência Profissional
+### 🛠️ Minha Stack
 
-**Desenvolvedor Full Stack Jr | UNIMES** *(Ago 2024 - Presente)*
-* **Modernização:** Migração de sistemas acadêmicos legados para PHP 8, focando em estabilidade e responsividade móvel.
-* **Integração com IA:** Desenvolvimento de soluções com a API da OpenAI para análise automática de redações e validação de documentos.
-* **Novas Implementações:** Criação de aplicações para o ambiente virtual utilizando PHP, JavaScript e MySQL.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,php,react,mysql,sqlite,docker,aws,git,github&theme=dark" />
+  </a>
+</div>
 
-**Estágio em TI | UNIMES** *(Mai 2023 - Ago 2024)*
-* Suporte técnico (Help Desk), manutenção de servidores, switches e parque tecnológico da universidade.
+### 📊 Meus Status no GitHub
 
----
+<div align="center">
+  <a href="https://github.com/gnery7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnery7&show_icons=true&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff&icon_color=61DAFB&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnery7&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=61DAFB&text_color=ffffff"/>
+  </a>
+</div>
 
-## 🛠️ Tecnologias e Ferramentas
+### 🕹️ Além do código
+- 🎮 Quando não estou programando, meu setup alterna entre o PS5, Switch e meu Steam Deck.
+- 🐉 Grande fã da franquia *Yakuza*, treinador Pokémon e consumidor assíduo de cultura pop e sci-fi.
+- 🐈 Tenho um gato chamado Tofu que provavelmente é o verdadeiro revisor dos meus Pull Requests.
 
-* **Linguagens:** PHP (5.2 e 8), Python, C++, JavaScript, HTML, CSS
-* **Frameworks & Bibliotecas:** Laravel, React, Kivy, jQuery, OpenCV, TensorFlow
-* **Banco de Dados & Cloud:** MySQL, AWS
-* **Ferramentas:** Git & GitHub, APIs REST (OpenAI)
+### 📫 Como me encontrar:
 
----
-
-## 🏆 Projetos e Premiações
-
-### [Sistema de Identificação de Ossos](https://github.com/gnery7)
-*Vencedor do COBRIC 2024 - Categoria Engenharia (Prêmio Milton Teixeira)*
-Sistema desenvolvido como TCC para auxiliar alunos com deficiência visual na identificação de ossos humanos. O projeto obteve nota final 10 e visa promover a acessibilidade no ensino da saúde.
-
-### [Braço Robótico](https://github.com/gnery7/Bracorobotico)
-Braço robótico com múltiplos pontos de articulação e implementação de ciclos automatizados para movimentação de blocos em posições complexas dentro de um circuito.
-
-### [Algoritmo do Método de Widrow-Hoff](https://github.com/gnery7/Metodo-de-Widrow-Hoff)
-Implementação técnica utilizada para treinar redes neurais simples, minimizando o erro entre saídas desejadas e reais de um neurônio.
-
-### Outras Premiações
-* **2º Lugar:** Desenvolvimento de fonte regulável de múltiplas tensões (UNISANTA).
-* **1º Lugar:** Melhor projeto de Ciências Exatas e da Terra (16º COBRIC).
+<div align="left">
+  <a href="https://linkedin.com/in/geovannenery/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:geovanne40@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</div>
 
 ---
-
-## 📚 Formação e Certificações
-
-**Bacharelado em Engenharia da Computação**
-*Universidade Santa Cecília (2020 - 2024)*
-
-**Certificações Recentes:**
-* Formação OpenAI & Python: Ferramentas e Chatbots Inteligentes | Alura (2025)
-* Formação Desenvolvimento Web com Laravel | Alura (2025)
-
----
-
-## 💡 Interesses
-* Inteligência Artificial e Tecnologias Emergentes
-* Videogames e Cultura Pop
-* Ficção Científica e Música
-
----
-
-Seja bem-vindo ao meu perfil! Sempre buscando contribuir com projetos desafiadores que unam modernização de software e inovação com IA. ✨
+<p align="center"><i>"A complexidade de um sistema legado é só um quebra-cabeça esperando para ser resolvido."</i></p>

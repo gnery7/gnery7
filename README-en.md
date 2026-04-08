@@ -23,14 +23,6 @@ Currently, my main focus of specialization is the **Java ecosystem**, deepening 
   </a>
 </div>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/gnery7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnery7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnery7&layout=compact&langs_count=6&theme=dracula"/>
-  </a>
-</div>
 
 ### 🕹️ Beyond the code
 - 🎮 When I'm not programming, my setup alternates between the PS5, Switch, and my Steam Deck.

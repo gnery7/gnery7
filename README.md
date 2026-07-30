@@ -8,7 +8,7 @@ Sou Engenheiro da Computação e Desenvolvedor Full Stack direto de Santos, SP �
 
 Minha especialidade é transformar a complexidade de sistemas críticos em soluções escaláveis e eficientes. Tenho uma vivência forte na linha de frente do código: desde a sustentação e modernização de aplicações legadas complexas, até a arquitetura e construção do zero de novas APIs RESTful de alto desempenho.
 
-Atualmente, meu grande foco de especialização é o **ecossistema Java**, aprofundando meus estudos em Arquitetura de Sistemas, Programação Orientada a Objetos e boas práticas (SOLID, Clean Architecture).
+Atualmente, meu grande foco de especialização é o **ecossistema PHP**, aprofundando meus estudos em Arquitetura de Sistemas, Programação Orientada a Objetos e boas práticas (SOLID, Clean Architecture).
 
 ### 🧠 O que eu realmente faço:
 * **Engenharia & Arquitetura:** Modelagem de sistemas, criação de rotinas complexas e garantia de qualidade de código através de testes automatizados (Pytest, JUnit).

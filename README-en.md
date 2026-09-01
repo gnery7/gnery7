@@ -2,43 +2,47 @@
   <a href="README.md">🇧🇷 Português</a> | <a href="README-en.md">🇺🇸 English</a>
 </div>
 
-# Hello! I'm Geovanne 👋
+# Hi! I'm Geovanne 👋
 
-I'm a Computer Engineer and Full Stack Developer straight from Santos, SP, Brazil 🌴. 
+Computer Engineer and developer based in Santos, Brazil. I work with **Python** and **C/C++** day to day, focused on performance and code quality, and have solid experience with **Java** and **PHP** in APIs and legacy systems.
 
-My specialty is transforming the complexity of critical systems into scalable and efficient solutions. I have strong frontline coding experience: from sustaining and modernizing complex legacy applications to architecting and building high-performance RESTful APIs from scratch.
+I like problems with real constraints: running a computer vision model on a Raspberry Pi, fitting a game into 8 KB of RAM, or cutting 70% off the load time of a system with 500+ users without breaking anything.
 
-Currently, my main focus of specialization is the **Java ecosystem**, deepening my studies in System Architecture, Object-Oriented Programming, and best practices (SOLID, Clean Architecture).
+## Featured projects
 
-### 🧠 What I actually do:
-* **Engineering & Architecture:** System modeling, creating complex routines, and ensuring code quality through automated testing (Pytest, JUnit).
-* **APIs & Artificial Intelligence:** Developing robust integrations with third-party services and AI (OpenAI API for data validation and document correction) using Python and FastAPI.
-* **Legacy Rescue:** Structured refactoring, version migration (dealing directly with PHP 5.2 to 8 environments), and improving performance and UX in production without compromising system stability.
+**[Bone Identifier](https://periodicos.unisanta.br/COB/article/view/2322)** · Python, TensorFlow, Raspberry Pi
+Assistive device for visually impaired students: real-time object detection on a Raspberry Pi 4 with audio feedback. Team project, awarded best Engineering paper at COBRIC 2024 (84.49% mAP).
 
-### 🛠️ My Stack
+**[Game Boy Game](https://github.com/gnery7/estudo-gameboy)** · C, GBDK-2020
+Side-scroller with sprites, accelerating background scroll, projectiles and a soundtrack (hUGEDriver), on hardware with 8 KB of RAM and a 4 MHz CPU.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,php,react,mysql,sqlite,docker,aws,git,github&theme=dark" />
-  </a>
-</div>
+**[Robotic Arm](https://github.com/gnery7/Bracorobotico)** · C++, Arduino
+Control of 6 servo motors with manual (real-time potentiometer reading) and automatic modes, mode switching via hardware interrupt and non-blocking serial I/O.
 
+**[Date Guessing Game](https://github.com/gnery7/jogo-de-datas)** · C++, Arduino
+Interactive game integrating an RFID reader, 16x2 LCD, MP3 module and buttons, with real-time feedback.
 
-### 🕹️ Beyond the code
-- 🎮 When I'm not programming, my setup alternates between the PS5, Switch, and my Steam Deck.
-- 🐉 Huge fan of the *Yakuza* franchise, Pokémon trainer, and an avid consumer of pop culture and sci-fi.
-- 🐈 I have a cat named Tofu who is probably the real reviewer of my Pull Requests.
+**[Lu Estilo API](https://github.com/gnery7/desafio_lu_estilo)** · Python, FastAPI
+E-commerce REST API with SQLAlchemy 2, Pydantic v2, JWT, Alembic, Docker and 100% test coverage with Pytest.
 
-### 📫 How to reach me:
+**[Product Catalog API](https://github.com/gnery7/product-catalog-api)** · PHP 8.3, Slim
+Multi-tenant API with versioned migrations and a quality pipeline: PHPUnit, PHPStan (level 5) and PSR-12.
 
-<div align="left">
-  <a href="https://linkedin.com/in/geovannenery/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="mailto:geovanne40@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
-</div>
+**[ASO Manager](https://github.com/gnery7/ASO-Manager)** · Java, Spring Boot, AWS SQS, React
+Full stack platform with asynchronous processing (Producer/Consumer via SQS) and a React + Vite frontend.
 
----
-<p align="center"><i>"The complexity of a legacy system is just a puzzle waiting to be solved."</i></p>
+## Stack
+
+- **Languages:** Python, C, C++, Java, JavaScript, PHP, SQL
+- **Frameworks and libraries:** TensorFlow, OpenCV, FastAPI, SQLAlchemy, GBDK, Spring Boot, React
+- **Testing and quality:** Pytest, PHPUnit, JUnit, JaCoCo, PHPStan
+- **Infra:** Docker, MySQL, SQLite, Amazon SQS, GitHub Actions, Linux, Grafana, Prometheus
+
+## Beyond the code
+
+🎮 PS5, Switch and Steam Deck compete for my free time; *Yakuza* and Pokémon usually win.
+🐈 My cat Tofu is the real reviewer of my pull requests.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/geovannenery/) · [geovanne40@gmail.com](mailto:geovanne40@gmail.com)

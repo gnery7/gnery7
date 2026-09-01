@@ -4,40 +4,45 @@
 
 # Olá! Sou o Geovanne 👋
 
-Sou Engenheiro da Computação e Desenvolvedor Full Stack direto de Santos, SP 🌴. 
+Engenheiro da Computação e desenvolvedor em Santos, SP. Trabalho com **Python** e **C/C++** no dia a dia, com foco em performance e qualidade de código, e tenho experiência sólida em **Java** e **PHP** em APIs e sistemas legados.
 
-Minha especialidade é transformar a complexidade de sistemas críticos em soluções escaláveis e eficientes. Tenho uma vivência forte na linha de frente do código: desde a sustentação e modernização de aplicações legadas complexas, até a arquitetura e construção do zero de novas APIs RESTful de alto desempenho.
+Gosto de problemas que envolvem restrições reais: rodar um modelo de visão computacional em um Raspberry Pi, fazer um jogo caber em 8 KB de RAM, ou tirar 70% do tempo de carregamento de um sistema com 500+ usuários sem derrubar nada.
 
-Atualmente, meu grande foco de especialização é o **ecossistema PHP**, aprofundando meus estudos em Arquitetura de Sistemas, Programação Orientada a Objetos e boas práticas (SOLID, Clean Architecture).
+## Projetos em destaque
 
-### 🧠 O que eu realmente faço:
-* **Engenharia & Arquitetura:** Modelagem de sistemas, criação de rotinas complexas e garantia de qualidade de código através de testes automatizados (Pytest, JUnit).
-* **APIs & Inteligência Artificial:** Desenvolvimento de integrações robustas com serviços de terceiros e IA (API da OpenAI para validação de dados e correção de documentos) utilizando Python e FastAPI.
-* **Resgate de Legados:** Refatoração estruturada, migração de versões (lidando diretamente com ambientes do PHP 5.2 ao 8) e melhoria de performance e UX em produção sem comprometer a estabilidade.
+**[Identificador de Ossos](https://periodicos.unisanta.br/COB/article/view/2322)** · Python, TensorFlow, Raspberry Pi
+Dispositivo assistivo para alunos com deficiência visual: detecção de objetos em tempo real no Raspberry Pi 4, com feedback por áudio. Projeto em equipe, prêmio de melhor artigo de Engenharia no COBRIC 2024 (mAP 84,49%).
 
-### 🛠️ Minha Stack
+**[Jogo para Game Boy](https://github.com/gnery7/estudo-gameboy)** · C, GBDK-2020
+Side-scroller com sprites, scroll de fundo com aceleração, projéteis e trilha sonora (hUGEDriver), em hardware com 8 KB de RAM e CPU de 4 MHz.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,php,react,mysql,sqlite,docker,aws,git,github&theme=dark" />
-  </a>
-</div>
+**[Braço Robótico](https://github.com/gnery7/Bracorobotico)** · C++, Arduino
+Controle de 6 servomotores com modo manual (potenciômetros em tempo real) e automático, troca de modo por interrupção de hardware e serial não bloqueante.
 
-### 🕹️ Além do código
-- 🎮 Quando não estou programando, meu setup alterna entre o PS5, Switch e meu Steam Deck.
-- 🐉 Grande fã da franquia *Yakuza*, treinador Pokémon e consumidor assíduo de cultura pop e sci-fi.
-- 🐈 Tenho um gato chamado Tofu que provavelmente é o verdadeiro revisor dos meus Pull Requests.
+**[Jogo de Datas](https://github.com/gnery7/jogo-de-datas)** · C++, Arduino
+Jogo interativo integrando leitor RFID, LCD 16x2, módulo MP3 e botões, com feedback em tempo real.
 
-### 📫 Como me encontrar:
+**[API Lu Estilo](https://github.com/gnery7/desafio_lu_estilo)** · Python, FastAPI
+API REST de e-commerce com SQLAlchemy 2, Pydantic v2, JWT, Alembic, Docker e 100% de cobertura de testes com Pytest.
 
-<div align="left">
-  <a href="https://linkedin.com/in/geovannenery/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="mailto:geovanne40@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
-  </a>
-</div>
+**[Product Catalog API](https://github.com/gnery7/product-catalog-api)** · PHP 8.3, Slim
+API multi-empresa com migrations versionadas e pipeline de qualidade: PHPUnit, PHPStan (nível 5) e PSR-12.
 
----
-<p align="center"><i>"A complexidade de um sistema legado é só um quebra-cabeça esperando para ser resolvido."</i></p>
+**[ASO Manager](https://github.com/gnery7/ASO-Manager)** · Java, Spring Boot, AWS SQS, React
+Plataforma full stack com processamento assíncrono (Producer/Consumer via SQS) e frontend em React + Vite.
+
+## Stack
+
+- **Linguagens:** Python, C, C++, Java, JavaScript, PHP, SQL
+- **Frameworks e bibliotecas:** TensorFlow, OpenCV, FastAPI, SQLAlchemy, GBDK, Spring Boot, React
+- **Testes e qualidade:** Pytest, PHPUnit, JUnit, JaCoCo, PHPStan
+- **Infra:** Docker, MySQL, SQLite, Amazon SQS, GitHub Actions, Linux, Grafana, Prometheus
+
+## Além do código
+
+🎮 PS5, Switch e Steam Deck disputam meu tempo livre; *Yakuza* e Pokémon costumam ganhar.
+🐈 Meu gato Tofu é o verdadeiro revisor dos meus pull requests.
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/geovannenery/) · [geovanne40@gmail.com](mailto:geovanne40@gmail.com)
